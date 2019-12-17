@@ -2,7 +2,7 @@ import requests
 import json
 from collections import Counter
 from colorama import init, Fore, Back, Style
-#You must enter your resourceID in the code to make it work
+# You must enter your resourceID in the code to make it work
 # To find the resource ID you have to click on the frosty keypad and get the ID from the URL
 start = 0
 end = 99999
